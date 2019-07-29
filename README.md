@@ -1,4 +1,4 @@
-# Spotify Clone App
+# Marketplace API
 
 A marketplace Node.js API with user session, auth, purchase routes, mails and queue control. A complete CRUD interface.
 
